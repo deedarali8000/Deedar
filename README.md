@@ -6,14 +6,14 @@
  
 ---
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;QUEEN+ANJU+XPRO;Thanks+for+visiting!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;DEEDAR;Thanks+for+visiting!"/>
 </a>
 
 ---
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrrashmika&theme=darkhub&no-frame=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DEEDAR&theme=darkhub&no-frame=true&margin-w=4"/>
 </p>
 
 ---
@@ -25,16 +25,16 @@
 ---
 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Deedar Ali-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="LOGO DESIGNER" src="https://img.shields.io/badge/LOGO_DESIGNER-NIKO_PAMIYA-red.svg?style=for-the-badge&logo=github"></a>
 
-<a href = ""><img alt="GAMING RASH" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
+<a href = ""><img alt="DEEDAR" src="https://img.shields.io/youtube/channel/subscribers/UChrUGbOqQ6BZUAAsffJPPsw" target="_blank" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/Mrrashmika?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mrrashmika/QUEEN-ANJU_XPRO?color=white&style=flat-square"></a>
+<a href="https://github.com/deedarali8000?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/deedarali8000?color=green&style=flat-square"></a>
+<a href="https://github.com/deedarali8000/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/deedarali8000?color=white&style=flat-square"></a>
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mrrashmika/QUEEN-ANJU_XPRO?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mrrashmika/QUEEN-ANJU_XPRO?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mrrashmika/QUEEN-ANJU_XPRO?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO"><img title="Size" src="https://img.shields.io/github/repo-size/Mrrashmika/QUEEN-ANJU_XPRO?style=flat-square&color=darkred"></a>
 <a href="https://github.com/Mrrashmika/QUEEN-ANJU_XPRO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 
